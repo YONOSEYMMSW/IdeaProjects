@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GCDproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Project3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StsckActivity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataStructureReview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file_activity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/greatestCommonDenominator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sortingActivity" vcs="Git" />
+  </component>
+</project>
