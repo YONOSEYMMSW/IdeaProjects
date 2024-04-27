@@ -1,0 +1,26 @@
+<Restaurants>
+    <Restaurant brandName = "Loren">
+        <location>Minnesota</location>
+        <Food>Burgers</Food>
+        <income>$47000</income>
+
+    </Restaurant>
+
+    <Restaurant brandName = "Safter">
+        <location>Lagos</location>
+        <Food>Suya</Food>
+        <income>$986</income>
+
+
+
+    </Restaurant>
+    <Restaurant brandName = "Creamy">
+        <location>Sweden</location>
+        <Food>Cheese</Food>
+        <income>$540000</income>
+
+
+
+    </Restaurant>
+</Restaurants>
+
